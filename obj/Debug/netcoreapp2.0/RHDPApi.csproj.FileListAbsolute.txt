@@ -1,0 +1,11 @@
+c:\Users\Sainath\Documents\Projects\RHDPApi\bin\Debug\netcoreapp2.0\RHDPApi.deps.json
+c:\Users\Sainath\Documents\Projects\RHDPApi\bin\Debug\netcoreapp2.0\RHDPApi.runtimeconfig.json
+c:\Users\Sainath\Documents\Projects\RHDPApi\bin\Debug\netcoreapp2.0\RHDPApi.runtimeconfig.dev.json
+c:\Users\Sainath\Documents\Projects\RHDPApi\bin\Debug\netcoreapp2.0\RHDPApi.dll
+c:\Users\Sainath\Documents\Projects\RHDPApi\bin\Debug\netcoreapp2.0\RHDPApi.pdb
+c:\Users\Sainath\Documents\Projects\RHDPApi\obj\Debug\netcoreapp2.0\RHDPApi.csproj.CoreCompileInputs.cache
+c:\Users\Sainath\Documents\Projects\RHDPApi\obj\Debug\netcoreapp2.0\RHDPApi.AssemblyInfoInputs.cache
+c:\Users\Sainath\Documents\Projects\RHDPApi\obj\Debug\netcoreapp2.0\RHDPApi.AssemblyInfo.cs
+c:\Users\Sainath\Documents\Projects\RHDPApi\obj\Debug\netcoreapp2.0\RHDPApi.dll
+c:\Users\Sainath\Documents\Projects\RHDPApi\obj\Debug\netcoreapp2.0\RHDPApi.pdb
+C:\Users\Sainath\Documents\Projects\RHDPApi\obj\Debug\netcoreapp2.0\RHDPApi.csprojResolveAssemblyReference.cache
